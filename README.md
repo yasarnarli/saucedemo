@@ -1,7 +1,7 @@
 by yaşar
 https://www.saucedemo.com/ webpage was tested, Chrome browser was used
 java programming language, OOP and POM framework were used.
-for test, selenium/cucumber test tools and dependencies were used 
+for test, selenium/cucumber BDD test tools and dependencies were used 
   
 
 first in login page logged in with valid credentials
